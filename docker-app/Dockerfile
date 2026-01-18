@@ -1,4 +1,4 @@
-FROM python:does-not-exist
+FROM python:3.10-slim
 
 WORKDIR /app
 
